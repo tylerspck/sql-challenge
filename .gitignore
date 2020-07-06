@@ -4,4 +4,5 @@ data/dept_manager.csv
 data/employees.csv
 data/salaries.csv
 data/titles.csv
+.DS_Store
 
